@@ -1,0 +1,57 @@
+body{
+    background-color: #0D0D0D;
+    color:#f9f6f6 !important;
+}
+.logo{
+
+    width: 50px;
+}
+i{
+    cursor: pointer;
+}
+
+.nav-tab{
+    background-color: #0D0D0D;
+    color:#f9f6f6 !important;
+
+}
+
+.meal-layer{
+   width: 100%;
+   height: 100%;
+   background-color: #f9f6f6ac;
+   top:100%;
+
+}
+.meal:hover .meal-layer{
+    top:0;
+}
+.side-nav-menue{
+
+    z-index: 9999;
+}
+
+.carousel-pointer{
+    cursor: pointer;
+}
+
+.alert{
+    width: fit-content;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
