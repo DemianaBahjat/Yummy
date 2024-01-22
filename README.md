@@ -6,7 +6,9 @@ a web development masterpiece blending HTML, CSS, JS, Bootstrap, jQuery, and Jav
 🛠 Tech Stack Highlights:
 
 HTML & CSS: Ensuring a visually stunning and responsive user interface that's as delightful as the dishes you'll discover.
+
 JavaScript & jQuery: Infusing interactivity and seamless user experiences into every corner of Yummy Food.
+
 Bootstrap: Giving our project a sleek and modern design, making it both aesthetically pleasing and user-friendly.
 🚀 Key Features:
 
